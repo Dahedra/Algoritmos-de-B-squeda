@@ -1,0 +1,7 @@
+C:\Users\Astronomy\Desktop\FORM\MostrarResultadosEnteros\obj\Debug\MostrarResultadosEnteros.csprojAssemblyReference.cache
+C:\Users\Astronomy\Desktop\FORM\MostrarResultadosEnteros\obj\Debug\MostrarResultados.Form1.resources
+C:\Users\Astronomy\Desktop\FORM\MostrarResultadosEnteros\obj\Debug\MostrarResultados.Properties.Resources.resources
+C:\Users\Astronomy\Desktop\FORM\MostrarResultadosEnteros\obj\Debug\MostrarResultadosEnteros.csproj.GenerateResource.cache
+C:\Users\Astronomy\Desktop\FORM\MostrarResultadosEnteros\obj\Debug\MostrarResultadosEnteros.csproj.CoreCompileInputs.cache
+C:\Users\Astronomy\Desktop\FORM\MostrarResultadosEnteros\obj\Debug\MostrarResultados.exe
+C:\Users\Astronomy\Desktop\FORM\MostrarResultadosEnteros\obj\Debug\MostrarResultados.pdb

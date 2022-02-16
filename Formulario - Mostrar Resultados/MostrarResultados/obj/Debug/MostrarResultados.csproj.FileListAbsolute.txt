@@ -1,0 +1,49 @@
+C:\Users\Astronomy\Desktop\MostrarResultados\MostrarResultados\bin\Debug\MostrarResultados.exe.config
+C:\Users\Astronomy\Desktop\MostrarResultados\MostrarResultados\bin\Debug\MostrarResultados.exe
+C:\Users\Astronomy\Desktop\MostrarResultados\MostrarResultados\bin\Debug\MostrarResultados.pdb
+C:\Users\Astronomy\Desktop\MostrarResultados\MostrarResultados\obj\Debug\MostrarResultados.csprojAssemblyReference.cache
+C:\Users\Astronomy\Desktop\MostrarResultados\MostrarResultados\obj\Debug\MostrarResultados.Form1.resources
+C:\Users\Astronomy\Desktop\MostrarResultados\MostrarResultados\obj\Debug\MostrarResultados.Properties.Resources.resources
+C:\Users\Astronomy\Desktop\MostrarResultados\MostrarResultados\obj\Debug\MostrarResultados.csproj.GenerateResource.cache
+C:\Users\Astronomy\Desktop\MostrarResultados\MostrarResultados\obj\Debug\MostrarResultados.csproj.CoreCompileInputs.cache
+C:\Users\Astronomy\Desktop\MostrarResultados\MostrarResultados\obj\Debug\MostrarResultados.exe
+C:\Users\Astronomy\Desktop\MostrarResultados\MostrarResultados\obj\Debug\MostrarResultados.pdb
+C:\Users\Astronomy\Desktop\FORM\MostrarResultados\bin\Debug\MostrarResultados.exe.config
+C:\Users\Astronomy\Desktop\FORM\MostrarResultados\bin\Debug\MostrarResultados.exe
+C:\Users\Astronomy\Desktop\FORM\MostrarResultados\bin\Debug\MostrarResultados.pdb
+C:\Users\Astronomy\Desktop\FORM\MostrarResultados\obj\Debug\MostrarResultados.csprojAssemblyReference.cache
+C:\Users\Astronomy\Desktop\FORM\MostrarResultados\obj\Debug\MostrarResultados.Form1.resources
+C:\Users\Astronomy\Desktop\FORM\MostrarResultados\obj\Debug\MostrarResultados.Properties.Resources.resources
+C:\Users\Astronomy\Desktop\FORM\MostrarResultados\obj\Debug\MostrarResultados.csproj.GenerateResource.cache
+C:\Users\Astronomy\Desktop\FORM\MostrarResultados\obj\Debug\MostrarResultados.csproj.CoreCompileInputs.cache
+C:\Users\Astronomy\Desktop\FORM\MostrarResultados\obj\Debug\MostrarResultados.exe
+C:\Users\Astronomy\Desktop\FORM\MostrarResultados\obj\Debug\MostrarResultados.pdb
+C:\Users\Astronomy\Desktop\FORM\MostrarResultados\obj\Debug\MostrarResultados.MenuPrincipal.resources
+C:\Users\Astronomy\Desktop\FORM\MostrarResultados\obj\Debug\MostrarResultados.Form2.resources
+C:\Users\Astronomy\Desktop\FORM\MostrarResultados\obj\Debug\MostrarResultados.Form3.resources
+C:\Users\Astronomy\Documents\TUP\Programacion\tp 2\tp 2\Formulario - Mostrar Resultados\MostrarResultados\bin\Debug\MostrarResultados.exe.config
+C:\Users\Astronomy\Documents\TUP\Programacion\tp 2\tp 2\Formulario - Mostrar Resultados\MostrarResultados\bin\Debug\MostrarResultados.exe
+C:\Users\Astronomy\Documents\TUP\Programacion\tp 2\tp 2\Formulario - Mostrar Resultados\MostrarResultados\bin\Debug\MostrarResultados.pdb
+C:\Users\Astronomy\Documents\TUP\Programacion\tp 2\tp 2\Formulario - Mostrar Resultados\MostrarResultados\obj\Debug\MostrarResultados.csprojAssemblyReference.cache
+C:\Users\Astronomy\Documents\TUP\Programacion\tp 2\tp 2\Formulario - Mostrar Resultados\MostrarResultados\obj\Debug\MostrarResultados.Form3.resources
+C:\Users\Astronomy\Documents\TUP\Programacion\tp 2\tp 2\Formulario - Mostrar Resultados\MostrarResultados\obj\Debug\MostrarResultados.Form1.resources
+C:\Users\Astronomy\Documents\TUP\Programacion\tp 2\tp 2\Formulario - Mostrar Resultados\MostrarResultados\obj\Debug\MostrarResultados.Form2.resources
+C:\Users\Astronomy\Documents\TUP\Programacion\tp 2\tp 2\Formulario - Mostrar Resultados\MostrarResultados\obj\Debug\MostrarResultados.MenuPrincipal.resources
+C:\Users\Astronomy\Documents\TUP\Programacion\tp 2\tp 2\Formulario - Mostrar Resultados\MostrarResultados\obj\Debug\MostrarResultados.Properties.Resources.resources
+C:\Users\Astronomy\Documents\TUP\Programacion\tp 2\tp 2\Formulario - Mostrar Resultados\MostrarResultados\obj\Debug\MostrarResultados.csproj.GenerateResource.cache
+C:\Users\Astronomy\Documents\TUP\Programacion\tp 2\tp 2\Formulario - Mostrar Resultados\MostrarResultados\obj\Debug\MostrarResultados.csproj.CoreCompileInputs.cache
+C:\Users\Astronomy\Documents\TUP\Programacion\tp 2\tp 2\Formulario - Mostrar Resultados\MostrarResultados\obj\Debug\MostrarResultados.exe
+C:\Users\Astronomy\Documents\TUP\Programacion\tp 2\tp 2\Formulario - Mostrar Resultados\MostrarResultados\obj\Debug\MostrarResultados.pdb
+A:\TUP\Old\Año I\Programacion\tp 2\tp 2\Formulario - Mostrar Resultados\MostrarResultados\bin\Debug\MostrarResultados.exe.config
+A:\TUP\Old\Año I\Programacion\tp 2\tp 2\Formulario - Mostrar Resultados\MostrarResultados\bin\Debug\MostrarResultados.exe
+A:\TUP\Old\Año I\Programacion\tp 2\tp 2\Formulario - Mostrar Resultados\MostrarResultados\bin\Debug\MostrarResultados.pdb
+A:\TUP\Old\Año I\Programacion\tp 2\tp 2\Formulario - Mostrar Resultados\MostrarResultados\obj\Debug\MostrarResultados.csproj.AssemblyReference.cache
+A:\TUP\Old\Año I\Programacion\tp 2\tp 2\Formulario - Mostrar Resultados\MostrarResultados\obj\Debug\MostrarResultados.Form3.resources
+A:\TUP\Old\Año I\Programacion\tp 2\tp 2\Formulario - Mostrar Resultados\MostrarResultados\obj\Debug\MostrarResultados.Form1.resources
+A:\TUP\Old\Año I\Programacion\tp 2\tp 2\Formulario - Mostrar Resultados\MostrarResultados\obj\Debug\MostrarResultados.Form2.resources
+A:\TUP\Old\Año I\Programacion\tp 2\tp 2\Formulario - Mostrar Resultados\MostrarResultados\obj\Debug\MostrarResultados.MenuPrincipal.resources
+A:\TUP\Old\Año I\Programacion\tp 2\tp 2\Formulario - Mostrar Resultados\MostrarResultados\obj\Debug\MostrarResultados.Properties.Resources.resources
+A:\TUP\Old\Año I\Programacion\tp 2\tp 2\Formulario - Mostrar Resultados\MostrarResultados\obj\Debug\MostrarResultados.csproj.GenerateResource.cache
+A:\TUP\Old\Año I\Programacion\tp 2\tp 2\Formulario - Mostrar Resultados\MostrarResultados\obj\Debug\MostrarResultados.csproj.CoreCompileInputs.cache
+A:\TUP\Old\Año I\Programacion\tp 2\tp 2\Formulario - Mostrar Resultados\MostrarResultados\obj\Debug\MostrarResultados.exe
+A:\TUP\Old\Año I\Programacion\tp 2\tp 2\Formulario - Mostrar Resultados\MostrarResultados\obj\Debug\MostrarResultados.pdb
